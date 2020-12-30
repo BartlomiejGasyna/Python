@@ -6,7 +6,7 @@
 
 I have wrote all of this code while learning python, my goal is to learn machine learning as I find this particular science field massively interesting.
 
-###Web Scraping Fuel Prices
+### Web Scraping Fuel Prices
 This program is mainly using **Beatiful Soup 4, csv and matplotlib** modules to gather information from 3 (at the moment) websites, it collects fuel prices both gasoline and diesel, puts them in ***'fuel_prices.csv'*** file with their date. With each program start new data is written, existing prices are being displayed on 3 plots, one per petrol station. There are only 3 stations at the moment that I've took in consideration, since only 3 of them in my city are sharing ther prices via websites. 
 
 **Sample chart**
@@ -17,7 +17,7 @@ Code is easily scalabe, so there wouldn't be any problems in adding a few statio
  
 **Obstacles** of course when it comes to web scraping the main obstacle is contstant changing of the websites, so if any of these 3 websites will be modified, thus my code shall be modified too.
 
-###Machine Learning
+### Machine Learning
 
 For now this project is under development, since I am new to the topic. This code displays wariance characteristcs for particular set of data
 
