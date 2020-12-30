@@ -22,7 +22,7 @@ Code is easily scalabe, so there wouldn't be any problems in adding a few statio
 
 For now this project is under development, since I am new to the topic. This code displays wariance characteristcs for particular set of data
 
-![](wariance characteristics.png)
+![](wariance_characteristics.png)
 
 It also displays digits used in sklearn.datasets digits set used often in ML field.
 
