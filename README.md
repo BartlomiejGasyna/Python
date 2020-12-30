@@ -1,5 +1,4 @@
-# Python ![](python.png =10)
-
+## Python <img src="python.png" alt="alt text" width="30">
 
  This is some of my python code, feel free to explore it, this repository will be uptaded, also I plan to translate all of the code to english.
  
