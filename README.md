@@ -7,7 +7,7 @@
 I have wrote all of this code while learning python, my goal is to learn machine learning as I find this particular science field massively interesting.
 
 ###Web Scraping Fuel Prices
-This program is mainly using **Beatiful Soup 4, csv and matplotlib** modules to gather information from 3 (at the moment) websites, it collects fuel prices both gasoline and diesel, puts them in csv file with their date. With each program start new data is written, existing prices are being displayed on 3 plots, one per petrol station. There are only 3 stations at the moment that I've took in consideration, since only 3 of them in my city are sharing ther prices via websites. 
+This program is mainly using **Beatiful Soup 4, csv and matplotlib** modules to gather information from 3 (at the moment) websites, it collects fuel prices both gasoline and diesel, puts them in ***'fuel_prices.csv'*** file with their date. With each program start new data is written, existing prices are being displayed on 3 plots, one per petrol station. There are only 3 stations at the moment that I've took in consideration, since only 3 of them in my city are sharing ther prices via websites. 
 
 **Sample chart**
 ![](Fuel Prices example.png)

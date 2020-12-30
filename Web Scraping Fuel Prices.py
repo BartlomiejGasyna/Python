@@ -88,7 +88,7 @@ MilaON = []
 MilaPB = []
 Dates = []
 
-with open('ceny_paliw.csv', 'r') as f:
+with open('fuel_prices.csv', 'r') as f:
     reader = csv.reader(f, delimiter=';')
     for row in reader:
         LeON.append(row[0])
@@ -134,6 +134,6 @@ plt.show()
 
 
 if (Dates[-1] != date.today()):
-    with open('ceny_paliw.csv','a', newline='') as f:
+    with open('fuel_prices.csv','a', newline='') as f:
         cf = csv.writer(f,delimiter=';')
         cf.writerow(ceny['Leclerc'] + ceny['MZK'] + ceny['MILA'] + (date.today().strftime('%d.%m.%y'),) )
